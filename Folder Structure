@@ -1,0 +1,23 @@
+04-Nextjs-Portfolio/
+├─ public/
+│  ├─ images/
+│  │  └─ profile.jpg
+│  └─ favicon.ico
+├─ src/
+│  ├─ components/
+│  │  ├─ Navbar.tsx
+│  │  ├─ Footer.tsx
+│  │  ├─ Hero.tsx
+│  │  ├─ About.tsx
+│  │  ├─ Projects.tsx
+│  │  └─ Contact.tsx
+│  ├─ pages/
+│  │  ├─ index.tsx
+│  │  └─ _app.tsx
+│  └─ styles/
+│     ├─ globals.css
+│     └─ theme.css
+├─ package.json
+├─ tsconfig.json
+├─ next.config.js
+└─ README.md
